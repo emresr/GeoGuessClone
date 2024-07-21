@@ -21,7 +21,7 @@ Vue.use(VueClipboard);
 
 Vue.use(GmapVue, {
     load: {
-        key: process.env.VUE_APP_API_KEY,
+        key: 'AIzaSyBUyR0UKZoPoPuI_Bpu2HWinNwv88Oaung',
         language: localStorage.getItem('language'),
         v: '3.55',
     },
